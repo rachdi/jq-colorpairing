@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Color Pairing
 
 Dans le dossier faites un `npm install` pour récupérer les dépendances
@@ -12,3 +13,6 @@ Un click sur le bouton doit mettre cette couleur en fond
 ## 3e étape
 quand la case #modify-texte est cochée, la couleur du texte
  doit etre modifiée
+=======
+# jq-color-pairing
+>>>>>>> 1e0176a06fed8e1f8f24b90dc82ea990efafa7ae
